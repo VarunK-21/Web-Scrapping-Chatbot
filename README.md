@@ -1,4 +1,6 @@
-**Collaborative project:** implemented core logic, UI design, and deployment tasks. [GitHub link — harsh20048/web-scrapping-chatbot/edit/master/README.md]
+**Collaborative project**
+
+implemented core logic, UI design, and deployment tasks. [GitHub link — harsh20048/web-scrapping-chatbot/edit/master/README.md]
 
 # Auto-Learning Website Chatbot
 
@@ -64,3 +66,4 @@ MAX_PAGES=100
 OLLAMA_HOST=http://localhost:11434
 MODEL_NAME=mistral:7b
 ```
+
