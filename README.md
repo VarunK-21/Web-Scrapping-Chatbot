@@ -1,3 +1,5 @@
+**Collaborative project:** implemented core logic, UI design, and deployment tasks. [GitHub link — harsh20048/web-scrapping-chatbot/edit/master/README.md]
+
 # Auto-Learning Website Chatbot
 
 A self-learning chatbot that can be deployed on any website. Once embedded, it automatically scrapes all the pages of the website, extracts relevant text data, and builds a vector-based knowledge base without any manual input.
